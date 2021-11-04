@@ -64,3 +64,9 @@ function displayLibrary() {
 
   document.querySelector("#cardCollection").innerHTML = content;
 }
+
+// TODO:
+// DELETE BUTTON,
+// LOCAL STORAGE,
+// TOGGLE READ STATUS
+// CSS CLEAN UP
