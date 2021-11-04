@@ -5,5 +5,5 @@
 <li>constructors</li>
 <li>add data</li>
 <li>delete data</li>
-<li><a>https://purich-puri.github.io/odin-library/</a></li>
+<li href="https://purich-puri.github.io/odin-library/"><a>Preview</a></li>
 </ul>
