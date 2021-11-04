@@ -53,3 +53,9 @@ header {
 .card-container {
   padding-top: 20px;
 }
+
+#cardCollection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
